@@ -1,0 +1,21 @@
+C:\Users\benka\source\repos\Maze\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
+C:\Users\benka\source\repos\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\benka\source\repos\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\benka\source\repos\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\benka\source\repos\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\benka\source\repos\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\benka\source\repos\Maze\Maze\obj\Debug\Maze.pdb
+E:\C# code\Maze\Maze\bin\Debug\Maze.exe.config
+E:\C# code\Maze\Maze\bin\Debug\Maze.exe
+E:\C# code\Maze\Maze\bin\Debug\Maze.pdb
+E:\C# code\Maze\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+E:\C# code\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+E:\C# code\Maze\Maze\obj\Debug\Maze.exe
+E:\C# code\Maze\Maze\obj\Debug\Maze.pdb
+G:\C# code\Maze\Maze\bin\Debug\Maze.exe.config
+G:\C# code\Maze\Maze\bin\Debug\Maze.exe
+G:\C# code\Maze\Maze\bin\Debug\Maze.pdb
+G:\C# code\Maze\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
+G:\C# code\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+G:\C# code\Maze\Maze\obj\Debug\Maze.exe
+G:\C# code\Maze\Maze\obj\Debug\Maze.pdb
